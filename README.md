@@ -1,4 +1,4 @@
-# 🖥️ Portfolio – Selfcomp Information Technology
+# 🖥️ Portfolio – Selfcomp Information Technology by Fernando Scherer :)
 
 WordPress-based website projects developed with Elementor Pro, PHP, CSS, and HTML.
 
