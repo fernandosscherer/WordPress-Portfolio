@@ -1,43 +1,112 @@
-# 🖥️ Portfolio – Selfcomp Information Technology by Fernando Scherer :)
+# 🖥️ Web Development Portfolio
 
-WordPress-based website projects developed with Elementor Pro, PHP, CSS, and HTML.
+Selected websites, e-commerce platforms, landing pages and digital experiences developed by **Fernando Scherer / Selfcomp Tecnologia**.
+
+More than 20 years of experience building web projects for companies in Brazil, Canada and other markets, using WordPress, WooCommerce, Elementor Pro, PHP, JavaScript, HTML/CSS, MySQL and cloud infrastructure.
 
 ---
 
-## Projects
+## 🌐 Selected Projects
 
 | Project | Description | Link |
-|--------|-------------|------|
-| **SIMO-Emplois** | Organization supporting immigrant workforce integration – Montréal, Canada | [view site](https://simo-emplois.com/) |
-| **Arteka Design** | Institutional website – Montréal, Canada | [view site](https://artekadesign.com/) |
-| **Ler a Bíblia** | Religious content portal | [view site](https://www.lerabiblia.com.br/) |
-| **PIMCHAT** | Institutional website | [view site](https://www.pimchat.com.br/) |
-| **Speaker Jaques Grinberg** | Speaker website with marketing automation (Mautic) | [view site](https://www.jaquesgrinberg.com.br/) |
-| **Eu Dirijo** | Institutional website | [view site](https://www.eudirijo.com.br/) |
-| **IX Service Technology** | Technology company website | [view site](https://www.ixservice.com.br/) |
-| **Rambo Nutrifit Supplements** | Supplements e-commerce store | [view site](https://www.rambonutrifit.com.br/) |
-| **Kelly Footwear** | Footwear store with marketing automation (Mautic) | [view site](https://kellycalcadosrs.com.br/) |
-| **CD Flowers & Plants** | Flower shop website | [view site](https://www.cdfloreseplantas.com.br/) |
-| **Beethoven Conservatory** | Music school website | [view site](https://beethoven.art.br/) |
-| **Power Technology** | Technology company website | [view site](https://www.powersystemtecnologias.com.br/) |
-| **Edith Travi** | Yogurt shop website | [view site](https://www.yogurteriaedithtravi.com.br/) |
-| **Togni Dentistry** | Dental clinic with marketing automation (Mautic) | [view site](https://www.clinicatogniodontologia.com/) |
-| **Liga Ambiental** | Environmental organization website | [view site](https://www.ligaambiental.com.br/) |
-| **Bistex** | Institutional website | [view site](https://bistex.com.br/) |
-| **Metalterm** | Metal heat treatment solutions company | [view site](https://www.metalterm.com.br/) |
-| **Datamaple** | Empowering businesses with AI-driven autonomous agents – Canada | [view site](https://datamaple.ca/) |
-| **Virtual Tour – Grêmio** | Virtual tour prototype | [view site](https://www.selfhost.com.br/museu360/) |
-| **Virtual Tour – Internacional** | Virtual tour prototype | [view site](https://www.selfhost.com.br/museu360inter/) |
-| **Virtual Tour – Mercado Público** | Virtual tour prototype (Matterport) | [view site](https://my.matterport.com/show/?m=yTadSzrjwZo) |
+|---|---|---|
+| **Clínica Artus** | Healthcare website for dentistry and advanced aesthetics, including service pages and conversion-focused landing pages | [View site](https://www.clinicaartus.com.br/) |
+| **SIMO-Emplois** | Website for a nonprofit organization supporting immigrant workforce integration — Montréal, Canada | [View site](https://simo-emplois.com/) |
+| **Arteka Design** | Corporate website for a design company — Montréal, Canada | [View site](https://artekadesign.com/) |
+| **Data Maple AI** | Corporate website for an AI venture builder founded in Montréal, Canada | [View site](https://datamaple.ca/) |
+| **Selfcomp Tecnologia** | Technology company website focused on software, AI, automation and digital solutions | [View site](https://www.selfcomp.com.br/) |
+| **Frequence Móveis** | Furniture manufacturer website with structured product catalog and lead generation | [View site](https://www.frequencemoveis.com.br/) |
+| **Togni Odontologia** | Dental clinic website with marketing automation integration | [View site](https://www.clinicatogniodontologia.com/) |
+| **Rambo Nutrifit** | Supplements e-commerce website | [View site](https://www.rambonutrifit.com.br/) |
+| **Kelly Calçados** | Footwear e-commerce website with marketing automation | [View site](https://kellycalcadosrs.com.br/) |
+| **Eu Dirijo** | Automotive digital platform and content portal | [View site](https://www.eudirijo.com.br/) |
+| **Jaques Grinberg** | Professional speaker website with Mautic marketing automation | [View site](https://www.jaquesgrinberg.com.br/) |
+| **Ler a Bíblia** | Large-scale religious content portal | [View site](https://www.lerabiblia.com.br/) |
+| **PIMCHAT** | Corporate institutional website | [View site](https://www.pimchat.com.br/) |
+| **IX Service Technology** | Corporate website for a technology services company | [View site](https://www.ixservice.com.br/) |
+| **CD Flores & Plantas** | Website for a flowers and plants business | [View site](https://www.cdfloreseplantas.com.br/) |
+| **Conservatório Beethoven** | Website for a music school and conservatory | [View site](https://beethoven.art.br/) |
+| **Power System Tecnologias** | Corporate website for a technology company | [View site](https://www.powersystemtecnologias.com.br/) |
+| **Edith Travi Yogurteria** | Institutional website for a food and retail business | [View site](https://www.yogurteriaedithtravi.com.br/) |
+| **Liga Ambiental** | Website for an environmental organization | [View site](https://www.ligaambiental.com.br/) |
+| **Bistex** | Corporate institutional website | [View site](https://bistex.com.br/) |
+| **Metalterm** | Industrial website for a metal heat treatment solutions company | [View site](https://www.metalterm.com.br/) |
 
 ---
 
-## 🛠️ Technologies Used
+## 🥽 Virtual & Interactive Experiences
 
-- WordPress · Elementor Pro · PHP · HTML · CSS
-- MySQL / MariaDB · Linux Cloud Server
-- Mautic (Marketing Automation) · Matterport (Virtual Tour)
+| Project | Description | Link |
+|---|---|---|
+| **Grêmio Virtual Tour** | Interactive 360° virtual tour prototype | [View project](https://www.selfhost.com.br/museu360/) |
+| **Internacional Virtual Tour** | Interactive 360° virtual tour prototype | [View project](https://www.selfhost.com.br/museu360inter/) |
+| **Mercado Público Virtual Tour** | Interactive virtual tour developed with Matterport | [View project](https://my.matterport.com/show/?m=yTadSzrjwZo) |
 
 ---
 
-*[selfcomp.com.br](https://www.selfcomp.com.br)*
+## 🛠️ Technologies
+
+### Web Development
+
+- WordPress
+- WooCommerce
+- Elementor Pro
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+
+### Database & Infrastructure
+
+- MySQL
+- MariaDB
+- Linux
+- Cloud Hosting
+- DNS
+- SSL
+- Cloudflare
+
+### Marketing & Analytics
+
+- Mautic
+- SEO
+- Google Analytics
+- Conversion Optimization
+
+### Design & Experience
+
+- Figma
+- Responsive Design
+- UX/UI
+- Matterport
+- 360° Experiences
+
+### Development & Integration
+
+- Git
+- GitHub
+- REST APIs
+- Third-party Integrations
+- Custom WordPress Development
+
+---
+
+## 👨‍💻 About
+
+I'm a senior web and software developer with more than **20 years of experience** building digital products and web solutions.
+
+Through **Selfcomp Tecnologia**, founded in 2005, I have worked on hundreds of websites, e-commerce platforms, landing pages and custom web projects for companies across different industries.
+
+Today, my work also extends into **AI, automation, SaaS and product development** through Data Maple AI.
+
+---
+
+## 🔗 More
+
+- [Selfcomp Tecnologia](https://www.selfcomp.com.br/)
+- [Data Maple AI](https://datamaple.ca/)
+- [GitHub](https://github.com/fernandosscherer)
+
+---
+
+> This repository represents a selection of projects developed throughout my career. Additional projects and case studies will progressively migrate to **DeployProfile**.
